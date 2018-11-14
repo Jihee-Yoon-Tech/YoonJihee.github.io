@@ -1,0 +1,9 @@
+
+
+# Introduction to Pthread
+1. Definition
+- Program: immediate executable file(ELF format)
+- Process: executable program(both running and ready to run)
+- Thread: process sharing virtual memory(both parent and Light Weight Process; process sharing its status)
+
+2. 
